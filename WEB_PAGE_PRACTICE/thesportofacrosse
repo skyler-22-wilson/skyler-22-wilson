@@ -1,0 +1,241 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+    	<meta charset="utf-8">
+        <title> The Sport of lacrosse</title>
+    	<style>
+    	
+    		<!-- Hello, welcome to my first attempt at creating a webpage, hope you enjoy-->
+    		h2 {
+    			color: navy;
+    		}
+    		ul {
+    			color: navy;
+    		}
+    		ol {
+    			color: navy;
+    		}
+    		p {
+    			color: navy;
+    		}
+    		alt {
+    			color: navy;
+    		}
+    		#personal-paragraph {
+    			color: navy;
+    		}
+    		#famous-players-list {
+    			color: navy;
+    		}
+    		.how-to-excel-in-lacrosse {
+    			color: navy;
+    		}
+    		#table-of-contents {
+    			color:black;
+    		}
+    		#player-table {
+    			color:navy;
+    		}
+    		#player-information {
+    			color:navy;
+    		}
+    		h1 {
+    			font-family:"kelly-slab",cursive; 
+    			font-weight:bold; 
+    			text-decoration:underline; 
+    			text-align: center;
+    			font-size: 38px
+    		}
+    		h2 {
+    			font-family:"kelly-slab",cursive; 
+    			text-decoration: underline;
+    		}
+    		#table-header {
+    			font-family:"arial"; 
+    			line-height:1.5em;
+    		}
+    		#gary-gait {
+    			font-family:"arial"; 
+    			line-height:1.5em;
+    		}
+    		#paul-gait {
+    			font-family:"arial";
+    			 line-height:1.5em;
+    		}
+    		#paul-rabil {
+    			font-family:"arial"; 
+    			line-height:1.5em;
+    		}
+    		#rob-pannell {
+    			font-family:"arial"; 
+    			line-height:1.5em;
+    		}
+    		ul {
+    			font-family:"arial";
+    		}
+    		ol {
+    			font-family:"arial";
+    		}
+    		p {
+    			font-family:"arial";
+    		}
+    		body {
+    			font-size:17px;
+    		}
+    		#player-name {
+    			font-size:21px;
+    		}
+    		#shot-direction {
+    			font-size:21px;
+    		}
+    		#team-name {
+    			font-size:21px;
+    		}
+    		#college {
+    			font-size:21px;
+    		}
+    		body {
+    			background-color:white
+    		}
+    		h2 {
+    			font-size:28px;
+    	
+    		}
+    		ul {
+    			font-weight:bold;
+    		}
+    		ol {
+    			font-weight:bold;
+    		}
+    		
+			.lacrosse-paragraph {
+				font-style: italic;
+			}
+    	
+    		
+    		
+    		
+    		
+    	
+    		
+    		
+    		
+    	</style>
+    </head>
+    
+    <body>
+    
+    		<h1>The Sport of Lacrosse</h1>
+   
+    		<h2 id="table-of-contents"> Table of Contents:</h2>
+    			<ul>
+    				<li><a href="#history-brief">Brief History</a></li>
+    				<li><a href="#why-play-lacrosse"> Why Kids Should Play Lacrosse</a></li>
+    				<li><a href="#personal-choice-lacrosse"> Personal Choice to Play Lacrosse</a></li>
+    				<li><a href="#skills-required">Required Skills</a></li>
+    				<li><a href="#famous-players">Famous Players</a></li>
+    				<li><a href="#player-info-table">Player Information</a></li>
+    			</ul>
+   
+    <h2 id= "history-brief"> A Brief History of Lacrosse:</h2>
+    <img src= "https://images.app.goo.gl/hWTaezTonVPT77UD6" alt="a group of indigenous men fight over the lacrosse ball in an open field" width="100">
+
+    <!-- information gathered from base knowledge Skyler has aquired over the years-->
+    	
+    	<ul>
+    		<li> Created by <em>aboriginal peoples</em> inhabiting North American around 1000 BC</li>
+    		<li> Referred to as the <em>medicine game</em> because it resolved conflicts between rival tribes</l1>
+    		<li> Played to honour the creator</li> 
+    		<li> Considered now to be <em> the fastest sport on two feet</em> and the <strong> fastest growing</strong> sport in North America</li>
+    		<li> Lacrosse is also Canada's official national sport</li>
+    		<li> Played professionally and at the collegiate level</li>
+    	
+    	</ul> 
+    <h2 id= "why-play-lacrosse"> Why Your Kids Should Play Lacrosse:</h2>
+    	
+    	<!--Skyler's personal opinion-->
+    	
+    	<ol>
+    		<li> Teaches valuable life skills</li>
+    		<li> Sport can be played at all ages</li>
+    		<li> Opportunity to earn a scholarship to a prestigious college</li>
+    		<li> Lower instances of head injury than Football and Hockey</li>
+    		<li> Encourages healthy lifestyle and competitive nature</li>
+   		</ol>
+  
+   	<h2 id="personal-choice-lacrosse">Why I Decided to Pursue Lacrosse Instead of Hockey:</h2>
+   		
+   		<p id="personal-paragraph" 
+   		class="lacrosse-paragraph"
+   		>I chose to pursue lacrosse instead of hockey because lacrosse provided a greater opportunity for me to earn an education from a prestigious college than hockey. Also, as someone who has always enjoyed a skill based competitive game, there is no better sport than lacrosse. The division one collegiate level is <em> at least in my oppinion</em> the pinnacle of the sport where I compete for Yale University. I always enjoyed being able to just pick up my stick and grab a ball and find any wall around, rather than purchasing an ice time and putting on all of the heavy hockey gear. Moreover, i generally just found the sport more fun and I excelled at it much more than I did with Hockey. </p>
+    
+    <h2 id="skills-required"> Skills Needed To Excel in The Sport:</h2>
+    
+    <!--Skyler's personal opinion and general consensus among other players and coaches-->
+    
+    	<p class= "how-to-excel-in-lacrosse"> There are many skills needed to excel in the sport of lacrosse, you need to be <em>athletic</em>, have <em>soft</em> hands and a basic knowledge of the how to play. <strong>Many skills from other sports can translate to lacrosse</strong> such as stick handling in hockey and game play in basketball. The hardest part to pick up is the stick skills which take many hours of practice to master. However, wall-ball, passing, and shooting practice help to improve these skills. </p>
+    <h2 id="famous-players"> Famous Players:</h2>
+    		
+    		<ul id=famous-players-list >
+    			<li><a target= "blank" href="https://en.wikipedia.org/wiki/Gary_Gait">Gary Gait</a></li>
+    			<li><a target= "blank" href="https://en.wikipedia.org/wiki/Paul_Gait">Paul Gait</a></li>
+    			<li> <a href="https://en.wikipedia.org/wiki/Paul_Rabil">Paul Rabil</a></li>
+    			<li><a href="https://en.wikipedia.org/wiki/Rob_Pannell">Rob Pannell</a></li>
+    		</ul>
+    		
+    	<h2 id="player-info-table">Player Information: </h2>
+    		
+    		<table id="player-table" 
+    		>
+    			<thread>
+    				<tr id="table-header"
+    				>
+    				
+    					
+    					<th id="player-name"> Player Name:</th>
+    					<th id="shot-direction"> Shot Direction:</th>
+    					<th id="team-name"> Team:</th>
+    					<th id="college"> College:</th>
+    				</tr>
+    			</thread>
+    			<tbody id="player-information">
+    				<tr id="gary-gait"
+    				>
+    				
+    					<td> Gary Gait</td>
+    					<td> Left</td>
+    					<td> Colorado Mammoth/ Rochester Knighthawks</td>
+    					<td> Syracuse University</td>
+    				</tr>
+    				
+    					<tr id="paul-gait"
+    					>
+    				
+    					<td> Paul Gait</td>
+    					<td> Left</td>
+    					<td> Rochester Knighthawks</td>
+    					<td> Syracuse University</td>
+    				</tr>
+    				
+    					<tr id="paul-rabil"
+    					>
+    				
+    					<td> Paul Rabil</td>
+    					<td> Left/Right</td>
+    					<td> PLL Atlas</td>
+    					<td> John's Hopkins University</td>
+    				</tr>
+    				
+    					<tr id="rob-pannell"
+    					>
+    				
+    					<td> Rob Pannell</td>
+    					<td> Left/Right</td>
+    					<td> New York Lizards</td>
+    					<td> Cornell University</td>
+    				</tr>
+    			</tbody>
+    		</table>
+    </body>
+    
+</html>
